@@ -24,6 +24,6 @@ run {
 }
 
 application {
-    mainClass = 'controller.App'
+    mainClass = 'App'
 }
 
